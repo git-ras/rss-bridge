@@ -25,7 +25,7 @@ class YouTubeCommunityTabBridge extends BridgeAbstract
         ]
     ];
 
-    const CACHE_TIMEOUT = 3600; // 1 hour
+    const CACHE_TIMEOUT = 10; // 1 hour
 
     private $feedUrl = '';
     private $feedName = '';

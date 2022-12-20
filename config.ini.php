@@ -72,7 +72,7 @@ by_bridge = false
 ;
 ; true  = enabled
 ; false = disabled (default)
-enable = enabled
+enable = true
 
 username = "lj7Qjk7xq3"
 
